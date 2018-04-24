@@ -1,0 +1,4 @@
+import time
+def new_test():
+  print("it is a new journey!")
+new_test()
